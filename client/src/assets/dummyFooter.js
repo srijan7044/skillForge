@@ -41,7 +41,7 @@ export const contactInfo = {
   city: "Kolkata",
   phone: "+91 1234567890",
   phoneHours: "Mon-Fri, 9AM-6PM",
-  email: "raysrijan21@gmail.com",
+  email: "dammy123@gmail.com",
   website: "https://nit.ac.in",
   designBy: "Team Narulites",
 };
